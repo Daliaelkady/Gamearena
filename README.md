@@ -48,13 +48,13 @@ Key highlights:
 
 ## 🚀 Live Demo
 
-[🌐 View Live Project](https://game-arena-theta.vercel.app/)  
+[🌐 View Live Project](https://gamearena1.netlify.app/)
 
 ---
 
 ## 💻 GitHub Repository
 
-[💻 View Source Code](https://github.com/your-username/your-repo-name)  
+[💻 View Source Code](https://github.com/Daliaelkady/Gamearena) 
 
 ---
 
